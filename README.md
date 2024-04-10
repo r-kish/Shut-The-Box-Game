@@ -1,4 +1,4 @@
-# Shut The Box Game
+# Shut The Box Game 📦
 
 Welcome to the Shut the Box Game! This game was made in Java for my first year capstone project. The goal of this project was to create a game using arrays completely in Java. Shut the box is a single or multiplayer game that is popular in schools as a math exercise, or in English pubs for gambling.
 

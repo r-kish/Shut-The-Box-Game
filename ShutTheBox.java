@@ -216,25 +216,3 @@ public class ShutTheBox {
       in.close();
    }
 }
-
-/*
-1. (CRITICAL QUESTION) How much time was required to complete the:
-   A) single-play portion of the project? 
-      This part took three hours, between studying psuedocode to completion
-      
-   B) multi-play portion of the project?
-      This part took 30 minutes, between the function, and re-setting game vars
-      
-   C) play with error detection portion of the project?
-      Error detection took the longest, at 3 and a half hours.
-      
-   Total time: 7 hours
- 
-2. What was the hardest part of this lab?
-The hardest part of this lab was definitely the error detection, but it helped
-me practice defining scope greatly.
-
-3. What will you always remember (never forget) from this exercise?
-I will never forget all the possible uses for Arrays and Strings
-
-*/
